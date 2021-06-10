@@ -1,4 +1,4 @@
-Django==1.11.29
+Django==2.2.24
 environs==7.3.1
 psycopg2-binary==2.8.4
 python-dotenv==0.12.0
